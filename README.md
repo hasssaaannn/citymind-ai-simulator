@@ -397,13 +397,3 @@ CityMind intentionally demonstrates distinct course techniques and applies each 
 
 ---
 
-## License
-
-No license file is currently present. Add a `LICENSE` (e.g. **MIT** or **Apache-2.0**) before public distribution.
-
----
-
-
-
-Built with care · One graph · Five challenges · Endless cities to plan.
-
