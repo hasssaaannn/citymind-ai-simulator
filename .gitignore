@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+
+# Project specific
+run_outputs/
+
+# OS generated files
+.DS_Store
+Thumbs.db
